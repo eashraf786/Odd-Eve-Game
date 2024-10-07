@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=hc
+comment1.params=
+comment1.target=java.lang.String\ Welcome_Player()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Instructions()
+comment3.params=
+comment3.target=int\ Over()
+comment4.params=
+comment4.target=int\ Odd_or_Even()
+comment5.params=n
+comment5.target=int\ Toss(int)
+comment6.params=
+comment6.target=int\ Won_The_Toss()
+comment7.params=chc\ over
+comment7.target=int\ First_Innings(int,\ int)
+comment7.text=In\ the\ program\ from\ here,\ \r\n\ chc\=1\ or\ chc2\=1\ means\ Player\ has\ to\ Bat\ and\ Computer\ has\ to\ Bowl\r\n\ chc\=2\ or\ chc2\=2\ means\ Player\ has\ to\ Bowl\ and\ Computer\ has\ to\ Bat\r\n
+comment8.params=chc2\ score1\ over
+comment8.target=int\ Second_Innings(int,\ int,\ int)
+comment9.params=chc3\ score1\ score2\ name
+comment9.target=void\ RESULT(int,\ int,\ int,\ java.lang.String)
+numComments=11
